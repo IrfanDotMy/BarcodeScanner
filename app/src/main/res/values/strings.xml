@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">QR &amp; Barcode Scanner</string>
+    <string name="app_name">QR By Megat Irfan</string>
 
     <!--Shortcuts-->
     <string name="shortcut_scan_from_camera">Scan</string>
@@ -346,7 +346,7 @@
     </string-array>
     <string name="activity_save_barcode_as_image_file_name_save">Save</string>
     <string name="activity_save_barcode_as_image_file_name_saved">Saved to Gallery</string>
-    
+
     <!--Barcode schemas-->
     <string name="barcode_schema_bookmark">Bookmark</string>
     <string name="barcode_schema_cryptocurrency">Bitcoin</string>
@@ -375,7 +375,7 @@
     <string name="barcode_format_code_93" translatable="false">Code 93</string>
     <string name="barcode_format_code_128" translatable="false">Code 128</string>
     <string name="barcode_format_data_matrix" translatable="false">Data Matrix</string>
-    <string name="barcode_format_ean_8"  translatable="false">EAN-8</string>
+    <string name="barcode_format_ean_8" translatable="false">EAN-8</string>
     <string name="barcode_format_ean_13" translatable="false">EAN-13</string>
     <string name="barcode_format_itf_14" translatable="false">ITF</string>
     <string name="barcode_format_pdf_417" translatable="false">PDF417</string>

@@ -217,7 +217,7 @@
                 android:layout_marginTop="@dimen/default_margin_very_big"
                 android:layout_marginBottom="@dimen/default_margin_small"
                 android:layout_marginHorizontal="@dimen/default_margin"
-                android:text="@string/fragment_settings_about"
+                android:text="By MegatIrfan"
                 style="@style/SettingsGroupTitleTextViewStyle"
                 />
             <com.example.barcodescanner.feature.common.view.SettingsButton

@@ -1,16 +1,3 @@
-## Overview
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-[![](https://img.shields.io/github/v/release/wewewe718/QrAndBarcodeScanner)](https://github.com/wewewe718/QrAndBarcodeScanner/releases/latest)
-
-QR & Barcode Scanner is an ad-free, open-source scanner app. It uses the [ZXing][zxing] scanning library.
-
-## Download
-
-<a href="https://play.google.com/store/apps/details?id=org.barcodescanner"><img alt="Get it on Google Play" src="https://github.com/wewewe718/QrAndBarcodeScanner/blob/develop/images/google_play/badge.png" height="60"/></a>   <a href="https://appgallery7.huawei.com/#/app/C102717909"><img alt="Explore it on AppGallery" src="https://github.com/wewewe718/QrAndBarcodeScanner/blob/develop/images/app_gallery/badge.png" height="60"/></a>   <a href="https://www.f-droid.org/en/packages/com.example.barcodescanner/"><img alt="Get it on FDroid" src="https://github.com/wewewe718/QrAndBarcodeScanner/blob/develop/images/fdroid_badge.png" height="60"/></a>   <a href="https://github.com/wewewe718/QrAndBarcodeScanner/releases"><img alt="Get it on Github" src="https://github.com/wewewe718/QrAndBarcodeScanner/blob/develop/images/get-it-on-github.png" height="60"/></a>
-
-## Screenshots
-
-<img src="https://github.com/wewewe718/QrAndBarcodeScanner/blob/develop/images/screenshots/en/1_scan.png" width="180" height="320"/> <img src="https://github.com/wewewe718/QrAndBarcodeScanner/blob/develop/images/screenshots/en/2_scan_from_file.png" width="180" height="320"/> <img src="https://github.com/wewewe718/QrAndBarcodeScanner/blob/develop/images/screenshots/en/3_result.png" width="180" height="320"/> <img src="https://github.com/wewewe718/QrAndBarcodeScanner/blob/develop/images/screenshots/en/4_result_dark_theme.png" width="180" height="320"/> <img src="https://github.com/wewewe718/QrAndBarcodeScanner/blob/develop/images/screenshots/en/5_create.png" width="180" height="320"/> <img src="https://github.com/wewewe718/QrAndBarcodeScanner/blob/develop/images/screenshots/en/6_history.png" width="180" height="320"/> <img src="https://github.com/wewewe718/QrAndBarcodeScanner/blob/develop/images/screenshots/en/7_settings.png" width="180" height="320"/>
 
 ## Contributing
 
@@ -55,7 +42,6 @@ The app can create the following barcode formats:
 * [UPC-A][upc_a]
 * [UPC-E][upc_e]
 
-[zxing]: https://github.com/zxing/zxing
 [transifex]: https://www.transifex.com/a-302/qr-barcode-scanner/
 [aztec]: https://en.wikipedia.org/wiki/Aztec_Code
 [codabar]: https://en.wikipedia.org/wiki/Codabar
@@ -74,3 +60,4 @@ The app can create the following barcode formats:
 [upc_e]: https://en.wikipedia.org/wiki/Universal_Product_Code#UPC-E
 [upc_ean]: https://en.wikipedia.org/wiki/Universal_Product_Code#EAN-13
 [rs]: https://developer.android.com/guide/topics/renderscript/compute
+# Qr-Scanner-Generator
